@@ -5,6 +5,9 @@
   "repository": "git@github.com:fulcanelly/vercel-test.git",
   "author": "fulcanelly <dallasxfulcanelly@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node app/index.js"
+  },
   "dependencies": {
     "express": "^4.19.2"
   }
